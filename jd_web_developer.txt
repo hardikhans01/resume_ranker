@@ -1,0 +1,45 @@
+Job Title: MERN Stack Web Developer
+
+Company: Exploro
+
+Location: Remote
+
+Job Type: Full-time/Part-time/Contract
+
+About Us:
+Exploro is a leading software development company with a focus on creating innovative web applications. We pride ourselves on delivering high-quality solutions that meet the needs of our clients. As a remote-first company, we value collaboration, flexibility, and diversity. We are currently seeking a talented MERN stack web developer to join our distributed team and contribute to our exciting projects.
+
+Position Overview:
+We are looking for a skilled MERN stack developer who is passionate about building scalable and responsive web applications. The ideal candidate will have a strong background in frontend and backend development, with expertise in MongoDB, Express.js, React.js, and Node.js. You will have the opportunity to work on diverse projects, collaborate with talented professionals from around the world, and make a meaningful impact on our products.
+
+Responsibilities:
+
+Develop and maintain web applications using the MERN stack.
+Collaborate with designers and other developers to implement user-friendly interfaces.
+Write clean, efficient, and well-documented code following best practices.
+Optimize application performance for speed and scalability.
+Troubleshoot and debug issues as they arise.
+Stay up-to-date with the latest trends and technologies in web development.
+Requirements:
+
+Bachelor's degree in Computer Science or related field.
+Proven experience as a MERN stack developer or similar role.
+Strong proficiency in JavaScript, HTML, and CSS.
+Experience with frontend frameworks such as React.js.
+Knowledge of backend frameworks such as Express.js and Node.js.
+Familiarity with database technologies such as MongoDB.
+Excellent problem-solving and communication skills.
+Ability to work independently and as part of a distributed team.
+Nice to Have:
+
+Experience with version control systems such as Git.
+Knowledge of cloud computing platforms like AWS or Azure.
+Familiarity with Agile development methodologies.
+Benefits:
+
+Competitive salary based on experience and skills.
+Remote work with flexible hours.
+Health insurance and other benefits.
+Opportunities for professional growth and skill development.
+Supportive and inclusive work environment with a global team.
+If you are passionate about web development and want to work on exciting projects with a remote-first company, we would love to hear from you! Please submit your resume and portfolio to exploroclub@gmail.com and tell us why you would be a great fit for our team.
